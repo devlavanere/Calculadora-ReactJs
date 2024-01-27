@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Projeto Calculadora com React JS
+
+O projeto visa a construção de uma calculadora com React JS e estilização dos componentes com a biblioteca Styled-Components.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
